@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steve-barrett
+- 👋 Hi, I’m Steve and I own Honey Associates
 - 👀 I’m interested in solidity, python, javascript, cryptocurrency
 - 🌱 I’m currently learning more and more.
 - 💞️ I’m looking to collaborate on ...
